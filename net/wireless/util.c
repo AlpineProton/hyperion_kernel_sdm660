@@ -1908,3 +1908,4 @@ bool cfg80211_is_gratuitous_arp_unsolicited_na(struct sk_buff *skb)
 	return false;
 }
 EXPORT_SYMBOL(cfg80211_is_gratuitous_arp_unsolicited_na);
+
